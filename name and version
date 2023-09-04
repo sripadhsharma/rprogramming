@@ -1,0 +1,19 @@
+input:
+
+name=readline("enter name:")
+age=as.integer(readline( "enter age:"))
+R.Version()
+print(name)
+print(age)
+
+output:
+>name=readline("enter name:")
+enter name:ragumaan
+> age=as.integer(readline( "enter age:"))
+enter age:20
+R.Version()
+$platform
+[1] "x86_64-w64-mingw32"
+
+$arch
+[1] "x86_64"
